@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\Booleans\Booleans\bin\Debug\net8.0\Booleans.exe
+C:\Users\admin\source\repos\Booleans\Booleans\bin\Debug\net8.0\Booleans.deps.json
+C:\Users\admin\source\repos\Booleans\Booleans\bin\Debug\net8.0\Booleans.runtimeconfig.json
+C:\Users\admin\source\repos\Booleans\Booleans\bin\Debug\net8.0\Booleans.dll
+C:\Users\admin\source\repos\Booleans\Booleans\bin\Debug\net8.0\Booleans.pdb
+C:\Users\admin\source\repos\Booleans\Booleans\obj\Debug\net8.0\Booleans.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Booleans\Booleans\obj\Debug\net8.0\Booleans.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Booleans\Booleans\obj\Debug\net8.0\Booleans.AssemblyInfo.cs
+C:\Users\admin\source\repos\Booleans\Booleans\obj\Debug\net8.0\Booleans.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Booleans\Booleans\obj\Debug\net8.0\Booleans.dll
+C:\Users\admin\source\repos\Booleans\Booleans\obj\Debug\net8.0\refint\Booleans.dll
+C:\Users\admin\source\repos\Booleans\Booleans\obj\Debug\net8.0\Booleans.pdb
+C:\Users\admin\source\repos\Booleans\Booleans\obj\Debug\net8.0\Booleans.genruntimeconfig.cache
+C:\Users\admin\source\repos\Booleans\Booleans\obj\Debug\net8.0\ref\Booleans.dll
